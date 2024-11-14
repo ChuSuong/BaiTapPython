@@ -80,7 +80,7 @@ def tinh_fibonacci(n):
     fibonacci = [0,1]
     for i in range (2, n):
         next_fib = fibonacci[-1] + fibonacci[-2] #bằng tổng 2 số trc nó
-        fibonacci.append(next_fib)
+        fibonacci.append(next_fib) #Thêm giá trị next_fib vào list fibonacci
 
     return fibonacci
         
