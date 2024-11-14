@@ -1,5 +1,7 @@
 #                     #BAI TAP : STRING
 
+                #BAI 1: 
+
 # def CTV_thongtin (n):
 #     students = []
 #     for _ in range(n):
